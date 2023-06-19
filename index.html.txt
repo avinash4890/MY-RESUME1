@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>My Resume</title>
+</head>
+<body>
+    <h1>Ram</h1>
+    <img src="./Man image.png" height="100" alt="">
+    <h2><a href="../3.2 Anchor Elements/index.html">Contact:</a></h2>
+    <h2>Summary</h2>
+    <p>To obtain an entry level position in the It industry, utilizing my technical knowledge, analytical skills,amd passion for technology to the growth of the organization.</p>
+<hr>
+<h2>Education</h2>
+<ul>
+    <li>Masters in Computer Science, Wright State University,2023</li>
+    <li>Bachelor of Science in Electronics Technology,Osmania University, 2020</li>
+</ul>
+<hr>
+<h2>Work Experience</h2>
+<ul><li><h3>Role: React Developer</h3></li>
+   <li> <h3>Client: XYZ</h3></li>
+   <li><h3>Responsibilities:</h3></li></ul>
+   <ol>
+    <li>Design, develop and test HTML5, CSS3, Bootstrap, JavaScript and React.JS that meets accessibility and web browser standards for website. </li>
+    <li>Designed CSS templates for use in all pages on the website working with CSS Background, positioning, text, border, margin, padding, and table.</li>
+    <li>Applied optimization techniques to reduce page size and load times to enhance user experience using sprites.</li>   
+   </ol>
+   <hr>
+<h2>Skills</h2>
+<ul><li><h3>Web Technologies:</h3></li>
+    HTML, HTML5, CSS3, SASS, XHTML, XML, JavaScript, AJAX, jQuery, WordPress, JSON, Twitter Bootstrap, React JS, Redux,Flex,Typescript,GrphQL,Angular JS 1.x, Express JS, Node.js, GitHub.
+   <li><h3>Databases:</h3></li>
+   MONGO DB, PostgreSQL, Spunk data storage (Big data),         Oracle 8i, 9i, 10g, SQL Server 2000, 2005 & 2008; 
+   IIS 6.0/7.0 .                        
+   </ul>
+</body>
+</html>
